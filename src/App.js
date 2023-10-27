@@ -37,7 +37,7 @@ const App = () => {
 
   return (
     <>
-      <div className='text-center mt-5'><h1>App</h1></div>
+      <div className='text-center mt-5'><h1>Appdde</h1></div>
       <div className='d-flex justify-content-center'>
         <Searchbox OnChange={handleSearchChange} placeholder="search monster" className="monster-search-box" />
       </div>
